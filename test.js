@@ -1,4 +1,4 @@
-#!/bin/env node
+#!/usr/bin/env node
 
 import {equal, deepEqual} from 'assert';
 import older from './index.js';
